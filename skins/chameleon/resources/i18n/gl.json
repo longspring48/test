@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm"
+		]
+	},
+	"skinname-chameleon": "Chameleon",
+	"chameleon-desc": "A aparencia Chameleon.",
+	"chameleon-loggedin": "Está conectado como $1.",
+	"chameleon-notloggedin": "Non está conectado.",
+	"chameleon-newmessages": "Ten mensaxes novas.",
+	"chameleon-nonewmessages": "Non ten mensaxes novas."
+}

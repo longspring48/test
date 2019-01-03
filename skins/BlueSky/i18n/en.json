@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jack Phoenix",
+			"Isarra"
+		]
+	},
+	"skinname-bluesky": "Blue Sky",
+	"bluesky-desc": "Skin based on the current version (late 2013) of wikiHow's skin",
+	"bluesky-editthis": "Edit this page",
+	"bluesky-viewsource": "View source for this page",
+	"bluesky-navbar-edit": "Edit",
+	"bluesky-personaltools": "Profile",
+	"bluesky-messages": "Messages",
+	"bluesky-notifications-new-talk": "You have $1 new talk {{PLURAL:$1|message|messages}}.",
+	"bluesky-notifications-none": "You have no notifications at this time.\nVisit your [[$1|talk page]] to see past messages.",
+	"bluesky-notifications-no-talk": "Visit your [[$1|talk page]] to see past messages.",
+	"bluesky-unread-notifications": "{{PLURAL:$1|One unread|$1 unread}}",
+	"bluesky-pagelog": "Logs for this page",
+	"bluesky-page": "Page tools",
+	"bluesky-admin": "Admin",
+	"bluesky-page-edited": "Page last edited {{int:ago|$1}}",
+	"bluesky-page-edited-user": "Page last edited {{int:ago|$1}} by $2",
+	"duration-months": "$1 {{PLURAL:$1|month|months}}",
+	"bluesky-toc-sections": "Sections",
+	"bluesky-breadcrumb-pointer": "»",
+	"bluesky-home": "Home",
+	"bluesky-breadcrumbs-nsspecial": "[[Special:SpecialPages|Special pages]]",
+	"bluesky-breadcrumbs-nsmain": "[[Special:AllPages|{{MediaWiki:Nstab-main}}s]]",
+	"bluesky-breadcrumbs-nsproject": "[{{fullurl:Special:PrefixIndex|namespace=4}} Project pages]",
+	"bluesky-breadcrumbs-nsproject-talk": "[{{fullurl:Special:PrefixIndex|namespace=5}} Project talk pages]",
+	"bluesky-breadcrumbs-nsfile": "[[Special:ListFiles|Files]]",
+	"bluesky-breadcrumbs-nstemplate": "[{{fullurl:Special:PrefixIndex|namespace=10}} Templates]",
+	"bluesky-breadcrumbs-nscategory": "[[Special:Categories|Categories]]",
+	"bluesky-breadcrumbs-nsdefault": "[{{fullurl:Special:PrefixIndex|namespace={{NAMESPACENUMBER}}}} {{NAMESPACE}} pages]",
+	"bluesky-article-info": "Article info",
+	"bluesky-page-info": "Page info",
+	"bluesky-footer-tools": "Extra page tools"
+}

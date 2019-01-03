@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Obsuser"
+		]
+	},
+	"skinname-chameleon": "Камелеон",
+	"chameleon-desc": "Тема „Камелеон”",
+	"chameleon-loggedin": "Пријављени сте као $1.",
+	"chameleon-notloggedin": "Нисте пријављени",
+	"chameleon-newmessages": "Имате нових порука.",
+	"chameleon-nonewmessages": "Немате нових порука."
+}

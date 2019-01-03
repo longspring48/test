@@ -1,0 +1,70 @@
+{
+	"name": "BlueSky",
+	"version": "1.1.1",
+	"author": [
+		"wikiHow",
+		"Jack Phoenix",
+		"Calimonius the Estrange"
+	],
+	"url": "https://www.mediawiki.org/wiki/Skin:BlueSky",
+	"descriptionmsg": "bluesky-desc",
+	"namemsg": "skinname-bluesky",
+	"license-name": "GPL-2.0-or-later",
+	"type": "skin",
+	"ValidSkinNames": {
+		"bluesky": "BlueSky"
+	},
+	"MessagesDirs": {
+		"SkinBlueSky": [
+			"i18n"
+		]
+	},
+	"config": {
+		"BlueSkyTOC": ""
+	},
+	"Hooks": {
+		"OutputPageParserOutput": [
+			"BlueSkyHooks::wfTOCCrap"
+		]
+	},
+	"ResourceModules": {
+		"skins.bluesky": {
+			"class": "ResourceLoaderSkinModule",
+			"styles": {
+				"resources/libraries/normalise.css": {
+					"media": "screen"
+				},
+				"resources/screen-common.less": {
+					"media": "screen"
+				},
+				"resources/forms.less": {
+					"media": "screen"
+				},
+				"resources/screen-desktop.less": {
+					"media": "screen and (min-width: 751px)"
+				},
+				"resources/screen-mobile.less": {
+					"media": "screen and (max-width: 750px)"
+				},
+				"resources/print.css": {
+					"media": "print"
+				}
+			}
+		},
+		"skins.bluesky.js": {
+			"scripts": [
+				"resources/main.js"
+			]
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "",
+		"remoteSkinPath": "BlueSky"
+	},
+	"AutoloadClasses": {
+		"SkinBlueSky": "BlueSky.skin.php",
+		"BlueSkyTemplate": "BlueSkyTemplate.php",
+		"BlueSkyHooks": "BlueSky.hooks.php"
+	},
+	"manifest_version": 1
+}

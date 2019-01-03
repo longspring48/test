@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"1917 Ekim Devrimi",
+			"Gırd",
+			"Mirzali"
+		]
+	},
+	"bluesky-desc": "mewcud versiyonê pak çermeyê Wikihow'i (2003 de)",
+	"bluesky-editthis": "Ena pele bıvurne",
+	"bluesky-viewsource": "Çımey ena pele bıewnı",
+	"bluesky-navbar-edit": "Bıvurne",
+	"bluesky-personaltools": "Profile",
+	"bluesky-messages": "Mesaci",
+	"bluesky-notifications-new-talk": "To rê  $1  {{PLURAL:$1|mesac esto|mesaci estê}}",
+	"bluesky-notifications-none": "To rê pêhesnayışi çıniyê. \n[[$1|Pela xoya mesacan]] ziyaret kı mesacanê verênan bıvin.",
+	"bluesky-notifications-no-talk": "\nŞo [[$1|pela xoya werênayışi]] u mesacanê xoyê peyênan bıvêne.",
+	"bluesky-unread-notifications": "{{PLURAL:$1|jew nêwaneya |$1 nêwaneyay}}",
+	"bluesky-pagelog": "Qeydkerdışê ena pele",
+	"bluesky-page": "Aletê pele",
+	"bluesky-admin": "Admin",
+	"bluesky-page-edited": "Tewr vurnayışo peyên {{int:ago| $1}}",
+	"bluesky-page-edited-user": "Tewr vurnayışo peyên {{int:ago| $1}} $2 ra biyo",
+	"duration-months": "{{PLURAL:$1|aşm|aşmi}}",
+	"bluesky-toc-sections": "Letey",
+	"bluesky-home": "Keye",
+	"bluesky-breadcrumbs-nsspecial": "[[Special:SpecialPages|Perê hısusiy]]",
+	"bluesky-breadcrumbs-nsproject": "[{{fullurl:Special:PrefixIndex|namespace=4}} Pella proceyan]",
+	"bluesky-breadcrumbs-nsproject-talk": "[{{fullurl:Special:PrefixIndex|namespace=5}} Pela vatışê procey]",
+	"bluesky-breadcrumbs-nsfile": "[[Special:ListFiles|Dosyay]]",
+	"bluesky-breadcrumbs-nstemplate": "[{{fullurl:Special:PrefixIndex|namespace=10}} Şabloni]",
+	"bluesky-breadcrumbs-nscategory": "[[Special:Categories|Kategoriyi]]",
+	"bluesky-breadcrumbs-nsdefault": "[{{fullurl:Special:PrefixIndex|namespace={{NAMESPACENUMBER}}}} {{NAMESPACE}} perri]",
+	"bluesky-article-info": "Malumata wesiqa",
+	"bluesky-page-info": "Melumatê perre",
+	"bluesky-footer-tools": "Tayna hacetê pele"
+}

@@ -1,0 +1,14 @@
+{
+  "extra": {
+    "merge-plugin": {
+      "include": [
+        "extensions/Wikibase/composer.json"
+      ]
+    }
+  },
+
+  "require": {
+ 	"mediawiki/chameleon-skin": "~1.0"
+  }
+}
+

@@ -1,0 +1,54 @@
+{
+	"name"       : "mediawiki/chameleon-skin",
+	"type"       : "mediawiki-skin",
+	"description": "A highly flexible MediaWiki skin using Twitter Bootstrap 3",
+	"keywords"   : [
+		"wiki",
+		"MediaWiki",
+		"skin",
+		"Twitter",
+		"Bootstrap"
+	],
+	"homepage"   : "https://github.com/cmln/chameleon",
+	"license"    : "GPL-3.0+",
+	"authors"    : [
+		{
+			"name" : "Stephan Gambke",
+			"email": "s7eph4n@gmail.com",
+			"role" : "Developer"
+		}
+	],
+	"support"    : {
+		"docs"  : "https://github.com/cmln/chameleon",
+		"source": "https://github.com/cmln/chameleon.git",
+		"issues": "https://github.com/cmln/chameleon/issues",
+		"irc"   : "irc://irc.freenode.org/mediawiki"
+	},
+	"require"    : {
+		"php"                : ">=5.3.2",
+		"ext-dom"            : "*",
+		"ext-filter"         : "*",
+		"composer/installers": ">1.0.12",
+		"mediawiki/bootstrap": "~1.1"
+	},
+	"autoload"   : {
+		"files": [ "Chameleon.php", "src/SkinChameleon.php" ],
+		"psr-4": {
+			"Skins\\Chameleon\\Tests\\" : "tests/phpunit",
+			"Skins\\Chameleon\\" : "src"
+		}
+	},
+	"extra"      : {
+		"branch-alias": {
+			"dev-master": "1.x-dev"
+		}
+	},
+	"scripts": {
+		"phpunit": "php ../../tests/phpunit/phpunit.php -c phpunit.xml.dist",
+		"test": [
+			"npm test",
+			"@phpunit"
+		],
+		"build": "npm run build"
+	}
+}

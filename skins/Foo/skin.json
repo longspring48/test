@@ -1,0 +1,39 @@
+{
+	"name": "Foo",
+	"author": "Luo",
+	"url": "https://www.mediawiki.org/wiki/Skin:FooBar",
+	"descriptionmsg": "foo-desc",
+	"namemsg": "skinname-foo",
+	"license-name": "GPL-2.0+",
+	"type": "skin",
+	"ValidSkinNames": {
+		"foo": "Foo"
+	},
+	"AutoloadClasses": {
+		"SkinFoo": "Foo.skin.php"
+	},
+	"MessagesDirs": {
+		"Foo": "i18n"
+	},
+	"ResourceModules": {
+		"skins.foo": {
+				"styles": {
+						"resources/screen.css": { "media": "screen" },
+						"resources/print.css": { "media": "print" }
+				}
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "",
+		"remoteSkinPath": "Foo"
+	}
+
+	"skins.foo.js": {
+			"scripts": [
+				"cool.js",
+				"awesome.js"
+			],
+			"position": "top",
+			"dependencies": "jquery.ui.dialog"
+		}
+}

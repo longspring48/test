@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mechanizatar"
+		]
+	},
+	"bluesky-desc": "Тэма афармлення, заснаваная на бягучай версіі (канец 2013 году) тэмы афармлення wikiHow",
+	"bluesky-editthis": "Правіць гэту старонку",
+	"bluesky-viewsource": "Паказаць зыходны тэкст гэтай старонкі",
+	"bluesky-navbar-edit": "Правіць",
+	"bluesky-personaltools": "Профіль",
+	"bluesky-messages": "Паведамленні",
+	"bluesky-notifications-new-talk": "Вы маеце $1 {{PLURAL:$1|новае паведамленне|новыя паведамленні|новых паведамленняў}}.",
+	"bluesky-notifications-none": "У Вас няма паведамленняў у гэты час.\nНаведайце Вашу [[$1|старонку абмеркаванняў]], каб убачыць апошнія паведамленні.",
+	"bluesky-notifications-no-talk": "Наведайце Вашу [[$1|старонку размоў]], каб убачыць апошнія паведамленні.",
+	"bluesky-unread-notifications": "{{PLURAL:$1|непрачытанае|непрачытаныя|непрачытаных}}",
+	"bluesky-pagelog": "Журналы для гэтай старонкі",
+	"bluesky-page": "Прылады старонкі",
+	"bluesky-admin": "Адміністратар",
+	"bluesky-page-edited": "Старонка апошні раз рэдагавалася {{int:ago|$1}}",
+	"bluesky-page-edited-user": "Старонка апошні раз рэдагавалася {{int:ago|$1}} $2",
+	"duration-months": "$1 {{PLURAL:$1|месяц|месяцы|месяцаў}}",
+	"bluesky-breadcrumbs-nsspecial": "[[Special:SpecialPages|Адмысловыя старонкі]]",
+	"bluesky-breadcrumbs-nsproject": "[{{fullurl:Special:PrefixIndex|namespace=4}} Старонкі праекта]",
+	"bluesky-breadcrumbs-nsproject-talk": "[{{fullurl:Special:PrefixIndex|namespace=5}} Старонкі абмеркавання праекта]",
+	"bluesky-breadcrumbs-nsfile": "[[Special:ListFiles|Файлы]]",
+	"bluesky-breadcrumbs-nstemplate": "[{{fullurl:Special:PrefixIndex|namespace=10}} Шаблоны]",
+	"bluesky-breadcrumbs-nscategory": "[[Special:Categories|Катэгорыі]]",
+	"bluesky-breadcrumbs-nsdefault": "[{{fullurl:Special:PrefixIndex|namespace={{NAMESPACENUMBER}}}} Старонкі прасторы назваў {{NAMESPACE}}]",
+	"bluesky-article-info": "Інфармацыя пра артыкул",
+	"bluesky-page-info": "Інфармацыя пра старонку"
+}
